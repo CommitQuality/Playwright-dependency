@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://commitquality.com",
+      "localStorage": [
+        {
+          "name": "isLoggedIn",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}
